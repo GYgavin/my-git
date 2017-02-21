@@ -14,3 +14,25 @@ resist		抵抗，反抗，抵制，抗(病)，耐(热)
 structure	结构，构造
 adapt		使适应，改编
 discipline	纪律，训练，惩罚，学科
+condition	状态，状况，环境
+maintion	维持，维修，保养，主张，赡养
+physical	身体的，物理学的，物质的，有形的
+interest	兴趣，利息，利益，利害关系，使感兴趣
+statement	陈述，声明，结算单，报表
+section		部分，章节，地区，科，部门，截面，剖面
+infer		推论，推断，猜想
+behavior	行为，举止，表现
+support		支撑，支持，供养，证实
+focus		聚焦，集中，焦点，中心
+contribute	捐献，捐款，投稿
+affect		感动，影响
+demand		要求，需要，询问，要求
+item		条款，条
+single		单一的，单身的，
+average		平均数，平均，通常的
+financial	财政的，金融的
+means		方法，手段
+happen		发生，碰巧
+design		设计，预订，指定
+describle	形容，描写
+
