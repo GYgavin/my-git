@@ -38,6 +38,7 @@ def partition(alist,first,last):
 
 
    return rightmark
+alist = [12,23,12,43,45,342,213,213,452,3,321,31432,321,1,312]
 print("Input:")
 print(alist)
 quickSort(alist)
