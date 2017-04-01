@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import random
-n = int(input('please input how manys random numbers do you want to build:'))
+n = int(input('How manys random numbers do you want to build?  '))
 def randomnum():
     datas = []
     a = len(datas)
