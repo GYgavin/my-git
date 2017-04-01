@@ -1,6 +1,6 @@
 def quickSort(alist):
-   quickSortHelper(alist,0,len(alist)-1)
-
+    quickSortHelper(alist,0,len(alist)-1)
+    return alist
 def quickSortHelper(alist,first,last):
    if first<last:
 
@@ -38,9 +38,3 @@ def partition(alist,first,last):
 
 
    return right
-#alist = [123,134,435,655,653,43,23,42,31]
-#print("Input:")
-#print(alist)
-#quickSort(alist)
-#print("Output:")
-#print(alist)

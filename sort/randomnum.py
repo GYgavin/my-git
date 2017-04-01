@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import random
-from msort import *
-n = int(input('please input how many amounts you want to build:'))
+n = int(input('please input how manys random numbers do you want to build:'))
+print(n)
 def randomnum():
     datas = []
     a = len(datas)
@@ -10,6 +10,3 @@ def randomnum():
         datas.append(x)
         a = len(datas)
     return datas
-alist = randomnum()
-quickSort(alist)
-print (alist)
